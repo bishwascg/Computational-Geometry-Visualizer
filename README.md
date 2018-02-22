@@ -1,0 +1,2 @@
+# ComputationalGeometryVisualize
+Visualizations for some popular Computational Geometry Algorithms
